@@ -1,0 +1,27 @@
+.match-stick{
+	
+}
+
+.match-matchstick{
+	padding-left:2%;
+	padding-right:2%;
+	height:90%;
+}
+
+.plus-minu{
+	padding-top:2%;
+	padding-bottom:2%;
+}
+
+.proceed-btn{
+	float:left;
+	padding-left:20%;
+}
+.cancel-btn{
+	float:right;
+	padding-right:20%
+}
+
+.wrapper-btn{
+	text-align:center;
+}
